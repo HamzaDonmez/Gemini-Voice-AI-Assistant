@@ -14,7 +14,7 @@ The assistant also keeps a **conversation log** and tries to adapt its tone base
  Saves all conversations into `conversation_log.txt`
 
 ---
-Installation
+##Installation##
 
 1. Clone the repository:  
    ```bash
@@ -32,7 +32,7 @@ Installation
 ```bash
 client = genai.Client(api_key="Your_Api_Key")
 ```
- USAGE:
+ ##USAGE:##
 
 - Run the program:
 ```bash
