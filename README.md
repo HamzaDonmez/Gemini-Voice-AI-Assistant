@@ -30,11 +30,10 @@ and even perform **Google searches** directly when you ask.
 ```
 
 3.-  Open the file FinalVer.py and add your Google API Key:
-4. 
 ```bash
 client = genai.Client(api_key="Your_Api_Key")
 ```
- ##USAGE:##
+ ## USAGE: ##
 
 - Run the program:
 ```bash
