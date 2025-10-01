@@ -20,3 +20,38 @@ Installation
    ```bash
    git clone https://github.com/HamzaDonmez/voice-ai-assistant.git
    cd voice-ai-assistant
+
+
+2. Install requirements:
+```bash
+ pip install -r requirements.txt
+```
+
+3. Open the file FinalVer.py and add your Google API Key:
+```bash
+client = genai.Client(api_key="Your_Api_Key")
+```
+ USAGE:
+
+Run the program:
+```bash
+python FinalVer.py
+```
+
+Press F7 → Speak through your microphone.
+Press F8 → Type manually.
+The assistant will answer back and log everything.
+
+
+The project uses:
+
+speechrecognition
+keyboard
+google-generativeai
+pyaudio
+
+Feel free to fork, open issues, or improve the code. Any suggestions are welcome!
+
+📌 Author
+
+Created by Hamza Dönmez
