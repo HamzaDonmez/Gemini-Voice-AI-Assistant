@@ -3,6 +3,8 @@
 This project is a **Python-based voice and text AI assistant**.  
 It can recognize speech, take manual input, detect your mood, and generate answers with the **Google Gemini API**.  
 The assistant also keeps a **conversation log** and tries to adapt its tone based on how you feel.  
+Also **pause or resume media playback**, **adjust system volume by percentage**,  
+and even perform **Google searches** directly when you ask.  
 
 ---
 
