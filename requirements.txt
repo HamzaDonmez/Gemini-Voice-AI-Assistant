@@ -1,0 +1,9 @@
+---
+
+## requirements.txt  
+
+```txt
+speechrecognition
+keyboard
+google-generativeai
+pyaudio
