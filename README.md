@@ -18,7 +18,7 @@ and even perform **Google searches** directly when you ask.
 ---
 ## Installation ##
 
-1. Clone the repository:  
+1.- Clone the repository:  
    ```bash
    git clone https://github.com/HamzaDonmez/voice-ai-assistant.git
    cd voice-ai-assistant
