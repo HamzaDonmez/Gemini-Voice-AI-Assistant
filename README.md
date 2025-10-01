@@ -78,9 +78,7 @@ python FinalVer.py
 -  **Interrupt & Exit**  
   Stop the program anytime with `Ctrl+C`. (`KeyboardInterrupt` handling inside `main()` and `processing_loop()`).
 
-
-- The project uses:  
-
+The project uses:  
 
 speechrecognition  
 
