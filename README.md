@@ -69,7 +69,7 @@ python FinalVer.py
 
 -  **Volume Control**  
   Can adjust volume by percentage when instructed.  
-  Example: "Set volume to 30%" → triggers system volume command (implemented in your OS section).  
+  Example: "Set volume to 30" → triggers system volume command (implemented in your OS section).  
   In code, you’d extend `parse_intent()` to detect "volume" + `%` and call system command.
 
 -  **AI-Powered Responses**  
