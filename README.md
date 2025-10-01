@@ -18,18 +18,18 @@ and even perform **Google searches** directly when you ask.
 ---
 ## Installation ##
 
-1.- Clone the repository:  
+1. Clone the repository:  
    ```bash
    git clone https://github.com/HamzaDonmez/voice-ai-assistant.git
    cd voice-ai-assistant
 
 
-2.- Install requirements:  
+2. Install requirements:  
 ```bash
  pip install -r requirements.txt
 ```
 
-3.-  Open the file FinalVer.py and add your Google API Key:
+3. Open the file FinalVer.py and add your Google API Key:
 ```bash
 client = genai.Client(api_key="Your_Api_Key")
 ```
